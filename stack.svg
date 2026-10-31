@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="340" viewBox="0 0 1100 340" role="img" aria-labelledby="title desc">
+  <title id="title">Himanshu Upadhyay - Technology stack</title>
+  <desc id="desc">Skills and technologies I have worked with across my projects.</desc>
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.4; }
+      .rule { stroke: #30363d; stroke-width: 1.2; }
+      .category { fill: #8b949e; font: 600 15px 'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif; }
+      .chip { fill: #12263f; stroke: #58a6ff; stroke-width: 1.25; }
+      .chip-text { fill: #e6edf3; font: 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif; }
+      .footer { fill: #8b949e; font: 13px 'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect class="bg" x="1" y="1" width="1098" height="338" rx="16" />
+
+  <!-- Languages -->
+  <text class="category" x="26" y="43">Languages</text>
+  <rect class="chip" x="240" y="18" width="90" height="36" rx="18" />
+  <text class="chip-text" x="285" y="41" text-anchor="middle">Python</text>
+  <rect class="chip" x="342" y="18" width="66" height="36" rx="18" />
+  <text class="chip-text" x="375" y="41" text-anchor="middle">SQL</text>
+  <rect class="chip" x="420" y="18" width="92" height="36" rx="18" />
+  <text class="chip-text" x="466" y="41" text-anchor="middle">PySpark</text>
+  <rect class="chip" x="524" y="18" width="112" height="36" rx="18" />
+  <text class="chip-text" x="580" y="41" text-anchor="middle">Spark SQL</text>
+  <rect class="chip" x="648" y="18" width="184" height="36" rx="18" />
+  <text class="chip-text" x="740" y="41" text-anchor="middle">MATLAB / Simulink</text>
+  <line class="rule" x1="26" y1="68" x2="1074" y2="68" />
+
+  <!-- Azure and lakehouse -->
+  <text class="category" x="26" y="104">Azure and lakehouse</text>
+  <rect class="chip" x="240" y="79" width="112" height="36" rx="18" />
+  <text class="chip-text" x="296" y="102" text-anchor="middle">ADLS Gen2</text>
+  <rect class="chip" x="364" y="79" width="164" height="36" rx="18" />
+  <text class="chip-text" x="446" y="102" text-anchor="middle">Azure Databricks</text>
+  <rect class="chip" x="540" y="79" width="170" height="36" rx="18" />
+  <text class="chip-text" x="625" y="102" text-anchor="middle">Azure Data Factory</text>
+  <rect class="chip" x="722" y="79" width="108" height="36" rx="18" />
+  <text class="chip-text" x="776" y="102" text-anchor="middle">Delta Lake</text>
+  <rect class="chip" x="842" y="79" width="92" height="36" rx="18" />
+  <text class="chip-text" x="888" y="102" text-anchor="middle">Synapse</text>
+  <rect class="chip" x="946" y="79" width="102" height="36" rx="18" />
+  <text class="chip-text" x="997" y="102" text-anchor="middle">Key Vault</text>
+  <line class="rule" x1="26" y1="129" x2="1074" y2="129" />
+
+  <!-- Data engineering -->
+  <text class="category" x="26" y="166">Data engineering</text>
+  <rect class="chip" x="240" y="141" width="112" height="36" rx="18" />
+  <text class="chip-text" x="296" y="164" text-anchor="middle">ETL / ELT</text>
+  <rect class="chip" x="364" y="141" width="154" height="36" rx="18" />
+  <text class="chip-text" x="441" y="164" text-anchor="middle">Data modelling</text>
+  <rect class="chip" x="530" y="141" width="118" height="36" rx="18" />
+  <text class="chip-text" x="589" y="164" text-anchor="middle">Star schema</text>
+  <rect class="chip" x="660" y="141" width="220" height="36" rx="18" />
+  <text class="chip-text" x="770" y="164" text-anchor="middle">Medallion architecture</text>
+  <rect class="chip" x="892" y="141" width="138" height="36" rx="18" />
+  <text class="chip-text" x="961" y="164" text-anchor="middle">Data quality</text>
+  <rect class="chip" x="240" y="185" width="150" height="36" rx="18" />
+  <text class="chip-text" x="315" y="208" text-anchor="middle">Incremental loads</text>
+  <line class="rule" x1="26" y1="235" x2="1074" y2="235" />
+
+  <!-- Engineering practice -->
+  <text class="category" x="26" y="272">Engineering practice</text>
+  <rect class="chip" x="240" y="247" width="88" height="36" rx="18" />
+  <text class="chip-text" x="284" y="270" text-anchor="middle">pytest</text>
+  <rect class="chip" x="340" y="247" width="158" height="36" rx="18" />
+  <text class="chip-text" x="419" y="270" text-anchor="middle">GitHub Actions</text>
+  <rect class="chip" x="510" y="247" width="74" height="36" rx="18" />
+  <text class="chip-text" x="547" y="270" text-anchor="middle">Git</text>
+  <rect class="chip" x="596" y="247" width="145" height="36" rx="18" />
+  <text class="chip-text" x="668.5" y="270" text-anchor="middle">Azure DevOps</text>
+  <rect class="chip" x="753" y="247" width="110" height="36" rx="18" />
+  <text class="chip-text" x="808" y="270" text-anchor="middle">Power BI</text>
+  <line class="rule" x1="26" y1="297" x2="1074" y2="297" />
+
+  <text class="footer" x="26" y="322">Skills I have worked with across my projects</text>
+</svg>
