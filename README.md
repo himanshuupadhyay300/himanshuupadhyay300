@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hup2000">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:himan.upde@gmail.com">Email</a>
-  &nbsp;•&nbsp;
   <a href="https://github.com/himanshuupadhyay300">GitHub</a>
 </p>
 
@@ -72,7 +70,7 @@ A batch-oriented pipeline for vehicle telemetry such as speed, engine temperatur
 | Area | Tools and concepts |
 |---|---|
 | Languages & processing | Python, SQL, PySpark, Spark SQL |
-| Automotive engineering context | MATLAB / Simulink, Model-in-the-Loop (MIL) development |
+| Automotive engineering context | MATLAB / Simulink, MIL/SIL development | 
 | Data architecture | Medallion (Bronze / Silver / Gold), star schema, Parquet, incremental processing |
 | Data reliability | Schema enforcement, validation rules, deduplication, late-data handling, quarantine, idempotency |
 | Testing & collaboration | pytest, Git, GitHub Actions, structured logging |
@@ -98,7 +96,6 @@ My next milestones are to validate the Delta Lake execution path in a real Datab
 I'm open to conversations about **Azure Data Engineering, Automotive Data Engineering, vehicle telemetry and data platforms for manufacturing**.
 
 - **LinkedIn:** [linkedin.com/in/hup2000](https://www.linkedin.com/in/hup2000)
-- **Email:** [himan.upde@gmail.com](mailto:himan.upde@gmail.com)
 - **GitHub:** [github.com/himanshuupadhyay300](https://github.com/himanshuupadhyay300)
 
 ---
